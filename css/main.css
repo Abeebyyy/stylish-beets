@@ -26,6 +26,7 @@ nav ol {
   font-weight: bold;
   font-size: 1.125rem;
   list-style-type: none;
+  color: #8f2440;
 }
 
 figure {
@@ -34,7 +35,7 @@ figure {
 }
 
 .info {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: bold;
 }
 
@@ -56,13 +57,17 @@ ul {
   list-style-type: circle;
 }
 
-blockquote p {
+blockquote {
   font-size: 1.5rem;
   font-style: italic;
 }
 
 blockquote strong {
   font-weight: normal;
+}
+
+.cite {
+  font-size: .8rem;
 }
 
 dt {
